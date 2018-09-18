@@ -1,0 +1,35 @@
+.header_image {
+	text-align: center;
+	color: purple;
+	margin: 0px auto;
+	padding: 0px;
+	font-family: Monotype Corsiva;
+	box-sizing: border-box;
+	background-image: url("images/braids_h1_background.jpg");
+	height: 500px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+	border-style: solid;
+}
+
+body {
+	padding: 0px;
+	margin: 0px;
+	background-color: hsl(313, 33%, 76%);
+}
+
+#header_title {
+	margin-top: 60px;
+}
+
+main {
+	font-family: Arial, sans-serif;
+}
+
+section img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+}
